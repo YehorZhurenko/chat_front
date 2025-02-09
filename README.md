@@ -40,6 +40,7 @@ Ensure you have [Node.js](https://nodejs.org/) and [npm](https://www.npmjs.com/)
 ## Running the Application
    ```bash
    npm start
+```
 
 ## Build for Production
    ```bash
